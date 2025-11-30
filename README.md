@@ -9,9 +9,9 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-yellow)
 
 
-- 🔭 I’m currently working on: Flutter App, SCI
-- 🌱 I’m currently learning: AI
-- 👯 I’m looking to collaborate on: AI, FSD
+- 🔭 I’m currently working on: MLLM downstream tasks
+- 🌱 I’m currently learning: RL
+- 👯 I’m looking to collaborate on: AI, MLLM, RL
 - 🤔 I’m looking for help with: of course AI
 - 📫 How to reach me: yiwenyou_allen@outlook.com, or 540809998@qq.com
 
