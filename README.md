@@ -2,7 +2,7 @@
 
 I'm a graduate student in artificial intelligence.
 
-I'm currently working on [Demiurge](https://github.com/AllenReder/demiurge-agent), an agent framework project.
+I'm currently working on [Awen]([https://github.com/AllenReder/demiurge-agent](https://github.com/AllenReder/awen)), an agent orchestrator.
 
 ## Interests
 
