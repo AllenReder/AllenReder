@@ -2,8 +2,6 @@
 
 I'm a graduate student in artificial intelligence.
 
-I'm currently working on [Awen](https://github.com/AllenReder/awen), an agent orchestrator.
-
 ## Interests
 
 AI · Agent Systems · Multimodal LLMs · Reinforcement Learning
